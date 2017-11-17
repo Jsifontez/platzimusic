@@ -1,7 +1,7 @@
 <template lang="pug">
   // como todo estará escrito en pug, es necesario que al template se le coloque el atributo lang="pug"
   #app
-    img(src='./assets/logo.png')
+    img(src='https://jsifontz.github.io/platzimusic/dist/logo.png')
     h1 Platzimusic
     select(v-model="selectedCountry")
       option(v-for="country in countries" :value="country.value") {{ country.name }}
