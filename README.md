@@ -1,6 +1,6 @@
 # platzimusic
 
-> Proyecto del Curso de Introduccion a Vue.js de Platzi
+> Proyecto del Curso Profesional de Vue.js de Platzi
 
 ## Build Setup
 
